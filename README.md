@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://wa.me/917095000009"><img src="https://img.shields.io/badge/_-WhatsApp-black?logo=whatsapp"/></a>
-<a href="mailto:anishgupta23@hotmail.com"><img src="https://img.shields.io/badge/_-Email-black?logo=Gmail"/></a>
+<a href="mailto:theanishgupta108@gmail.com"><img src="https://img.shields.io/badge/_-Email-black?logo=Gmail"/></a>
 <a href="https://www.linkedin.com/in/anishhguptaa/"><img src="https://img.shields.io/badge/_-LinkedIn-black?logo=Linkedin"/></a>
 <a href="https://twitter.com/anishhguptaa"><img src="https://img.shields.io/badge/_-anishhguptaa-black?logo=X"/></a>
 <a href="http://instagram.com/anishhguptaa"><img src="https://img.shields.io/badge/_-Instagram-black?logo=Instagram"/>
