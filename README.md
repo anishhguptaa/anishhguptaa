@@ -4,10 +4,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxtdWpuYTBnMjJ4emI1YnRob3hzZTJibjVqcWMwdnc2N2xhZmhzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 <br/>
 
-- More than just a data science undergrad
-- Currently exploring the world of AI
+- More than just an AI Engineer
+- Currently exploring the world of LLM's and NLP
 - Proficient in technologies including Machine Learning, Deep Learning, Data Analytics, Python, SQL, Django and others
-- Looking forward to contribute to Open Source and be an active member of the community
 - Looking out for opportunities to learn and grow
 <br/>
 <br/>
