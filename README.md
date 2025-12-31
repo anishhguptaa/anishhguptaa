@@ -10,7 +10,11 @@
 - Looking out for opportunities to learn and grow
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishhguptaa&show_icons=true&theme=dark&title_color=ebebeb&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="anishhguptaa" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishhguptaa&show_icons=true&theme=dark&title_color=ebebeb&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="anishhguptaa" /></p> -->
 
 <h2 align="center">🤝 &nbsp;Contact Me!</h2>
 
